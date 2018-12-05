@@ -1,0 +1,16 @@
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\obj\Debug\04.21.csprojAssemblyReference.cache
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\obj\Debug\_04._21.MainWindow.resources
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\obj\Debug\_04._21.Properties.Resources.resources
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\obj\Debug\04.21.csproj.GenerateResource.cache
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\obj\Debug\04.21.csproj.CoreCompileInputs.cache
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\bin\Debug\04.21.exe.config
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\bin\Debug\04.21.exe
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\bin\Debug\04.21.pdb
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\bin\Debug\ClassLib.dll
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\bin\Debug\VisualLib.dll
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\bin\Debug\ClassLib.pdb
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\bin\Debug\VisualLib.pdb
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\obj\Debug\04.21.csproj.CopyComplete
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\obj\Debug\04.21.exe
+C:\2 курс\ЯиСП\2 аттестация\Att2\04.21\obj\Debug\04.21.pdb

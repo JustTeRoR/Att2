@@ -1,0 +1,9 @@
+C:\2 курс\ЯиСП\2 аттестация\Att2\VisualLib\bin\Debug\VisualLib.dll
+C:\2 курс\ЯиСП\2 аттестация\Att2\VisualLib\bin\Debug\VisualLib.pdb
+C:\2 курс\ЯиСП\2 аттестация\Att2\VisualLib\obj\Debug\VisualLib.csprojAssemblyReference.cache
+C:\2 курс\ЯиСП\2 аттестация\Att2\VisualLib\obj\Debug\VisualLib.csproj.CoreCompileInputs.cache
+C:\2 курс\ЯиСП\2 аттестация\Att2\VisualLib\obj\Debug\VisualLib.dll
+C:\2 курс\ЯиСП\2 аттестация\Att2\VisualLib\obj\Debug\VisualLib.pdb
+C:\2 курс\ЯиСП\2 аттестация\Att2\VisualLib\bin\Debug\ClassLib.dll
+C:\2 курс\ЯиСП\2 аттестация\Att2\VisualLib\bin\Debug\ClassLib.pdb
+C:\2 курс\ЯиСП\2 аттестация\Att2\VisualLib\obj\Debug\VisualLib.csproj.CopyComplete
